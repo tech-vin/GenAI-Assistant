@@ -1,0 +1,26 @@
+
+# Python virtual environment
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local memory file
+memory_store.json
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+
+# VSCode config
+.vscode/
+
+# PyCharm config
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
